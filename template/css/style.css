@@ -1,0 +1,38 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+body{
+  background: lightgrey;
+}
+
+section{
+  text-align: center;
+}
+
+button{
+  height: 300px;
+  width: 305px;
+  background-image: url("https://submergemag.com/wp-content/uploads/2011/12/Stream_G-Street.jpg");
+  
+}
+.wunderbarLogo{
+  
+}
+
+
+main{
+  
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
